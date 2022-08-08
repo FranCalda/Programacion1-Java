@@ -1,0 +1,55 @@
+04-Aug-2022 17:26:37.143 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/9.0.63
+04-Aug-2022 17:26:37.143 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      May 11 2022 07:52:11 UTC
+04-Aug-2022 17:26:37.143 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     9.0.63.0
+04-Aug-2022 17:26:37.143 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 10
+04-Aug-2022 17:26:37.143 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+04-Aug-2022 17:26:37.143 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+04-Aug-2022 17:26:37.143 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Program Files\Java\jdk1.8.0_202\jre
+04-Aug-2022 17:26:37.143 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       1.8.0_202-b08
+04-Aug-2022 17:26:37.143 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+04-Aug-2022 17:26:37.143 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     D:\DSW\Ies6\apache-tomcat-9.0.63
+04-Aug-2022 17:26:37.143 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     D:\DSW\Ies6\apache-tomcat-9.0.63
+04-Aug-2022 17:26:37.143 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=D:\DSW\Ies6\apache-tomcat-9.0.63\conf\logging.properties
+04-Aug-2022 17:26:37.143 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Aug-2022 17:26:37.143 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dhttp.nonProxyHosts=localhost|127.0.0.1|ServerR7
+04-Aug-2022 17:26:37.143 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+04-Aug-2022 17:26:37.143 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Aug-2022 17:26:37.143 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dignore.endorsed.dirs=
+04-Aug-2022 17:26:37.143 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=D:\DSW\Ies6\apache-tomcat-9.0.63
+04-Aug-2022 17:26:37.143 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=D:\DSW\Ies6\apache-tomcat-9.0.63
+04-Aug-2022 17:26:37.143 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=D:\DSW\Ies6\apache-tomcat-9.0.63\temp
+04-Aug-2022 17:26:37.174 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Cargada la biblioteca nativa APR de Apache Tomcat [1.2.33] con la versión APR [1.7.0].
+04-Aug-2022 17:26:37.174 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Capacidades APR: IPv6 [true], enviar fichero [true], aceptar filtros [false], aleatorio [true], UDS [true].
+04-Aug-2022 17:26:37.174 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+04-Aug-2022 17:26:37.221 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL inicializado correctamente [OpenSSL 1.1.1o  3 May 2022]
+04-Aug-2022 17:26:37.439 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8086"]
+
+04-Aug-2022 17:26:37.455 INFORMACIÓN [main] org.apache.catalina.startup.Catalina.load Server initialization in [463] milliseconds
+04-Aug-2022 17:26:37.470 INFORMACIÓN [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+04-Aug-2022 17:26:37.470 INFORMACIÓN [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.63]
+04-Aug-2022 17:26:37.486 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [D:\DSW\Ies6\apache-tomcat-9.0.63\conf\Catalina\localhost\PruebaNB.xml]
+04-Aug-2022 17:26:37.496 ADVERTENCIA [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/PruebaNB] in deployment descriptor [D:\DSW\Ies6\apache-tomcat-9.0.63\conf\Catalina\localhost\PruebaNB.xml] has been ignored
+04-Aug-2022 17:26:37.736 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\DSW\Ies6\apache-tomcat-9.0.63\conf\Catalina\localhost\PruebaNB.xml] has finished in [250] ms
+04-Aug-2022 17:26:37.736 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [D:\DSW\Ies6\apache-tomcat-9.0.63\conf\Catalina\localhost\ROOT.xml]
+04-Aug-2022 17:26:37.736 ADVERTENCIA [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [] in deployment descriptor [D:\DSW\Ies6\apache-tomcat-9.0.63\conf\Catalina\localhost\ROOT.xml] has been ignored
+04-Aug-2022 17:26:37.752 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\DSW\Ies6\apache-tomcat-9.0.63\conf\Catalina\localhost\ROOT.xml] has finished in [16] ms
+04-Aug-2022 17:26:37.752 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [D:\DSW\Ies6\apache-tomcat-9.0.63\webapps\docs] de la aplicación web
+04-Aug-2022 17:26:37.783 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\DSW\Ies6\apache-tomcat-9.0.63\webapps\docs] has finished in [31] ms
+04-Aug-2022 17:26:37.783 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [D:\DSW\Ies6\apache-tomcat-9.0.63\webapps\examples] de la aplicación web
+04-Aug-2022 17:26:38.111 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\DSW\Ies6\apache-tomcat-9.0.63\webapps\examples] has finished in [328] ms
+04-Aug-2022 17:26:38.111 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [D:\DSW\Ies6\apache-tomcat-9.0.63\webapps\host-manager] de la aplicación web
+04-Aug-2022 17:26:38.127 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\DSW\Ies6\apache-tomcat-9.0.63\webapps\host-manager] has finished in [16] ms
+04-Aug-2022 17:26:38.127 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [D:\DSW\Ies6\apache-tomcat-9.0.63\webapps\manager] de la aplicación web
+04-Aug-2022 17:26:38.143 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\DSW\Ies6\apache-tomcat-9.0.63\webapps\manager] has finished in [16] ms
+04-Aug-2022 17:26:38.143 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8086"]
+04-Aug-2022 17:26:38.158 INFORMACIÓN [main] org.apache.catalina.startup.Catalina.start Server startup in [710] milliseconds
+04-Aug-2022 17:26:49.252 INFORMACIÓN [http-nio-8086-exec-8] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto []
+04-Aug-2022 17:26:49.272 INFORMACIÓN [http-nio-8086-exec-7] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [D:\DSW\Ies6\apache-tomcat-9.0.63\conf\Catalina\localhost\ROOT.xml]
+04-Aug-2022 17:26:49.272 ADVERTENCIA [http-nio-8086-exec-7] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [] in deployment descriptor [D:\DSW\Ies6\apache-tomcat-9.0.63\conf\Catalina\localhost\ROOT.xml] has been ignored
+04-Aug-2022 17:26:49.287 INFORMACIÓN [http-nio-8086-exec-7] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\DSW\Ies6\apache-tomcat-9.0.63\conf\Catalina\localhost\ROOT.xml] has finished in [15] ms
+04-Aug-2022 17:26:49.287 INFORMACIÓN [http-nio-8086-exec-3] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[]] after start() had already been called. The second call will be ignored.
+04-Aug-2022 17:36:20.908 INFORMACIÓN [http-nio-8086-exec-11] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto []
+04-Aug-2022 17:36:20.924 INFORMACIÓN [http-nio-8086-exec-14] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [D:\DSW\Ies6\apache-tomcat-9.0.63\conf\Catalina\localhost\ROOT.xml]
+04-Aug-2022 17:36:20.935 ADVERTENCIA [http-nio-8086-exec-14] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [] in deployment descriptor [D:\DSW\Ies6\apache-tomcat-9.0.63\conf\Catalina\localhost\ROOT.xml] has been ignored
+04-Aug-2022 17:36:20.955 INFORMACIÓN [http-nio-8086-exec-14] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\DSW\Ies6\apache-tomcat-9.0.63\conf\Catalina\localhost\ROOT.xml] has finished in [31] ms
+04-Aug-2022 17:36:20.955 INFORMACIÓN [http-nio-8086-exec-12] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[]] after start() had already been called. The second call will be ignored.

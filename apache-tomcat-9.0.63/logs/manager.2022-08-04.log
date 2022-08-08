@@ -1,0 +1,12 @@
+04-Aug-2022 17:26:48.705 INFORMACIÓN [http-nio-8086-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+04-Aug-2022 17:26:48.705 INFORMACIÓN [http-nio-8086-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+04-Aug-2022 17:26:48.736 INFORMACIÓN [http-nio-8086-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Aug-2022 17:26:48.736 INFORMACIÓN [http-nio-8086-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Aug-2022 17:26:48.736 INFORMACIÓN [http-nio-8086-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/'
+04-Aug-2022 17:26:49.272 INFORMACIÓN [http-nio-8086-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/IES6/AppData/Local/Temp/context1268862422046529773.xml'
+04-Aug-2022 17:26:49.287 INFORMACIÓN [http-nio-8086-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/'
+04-Aug-2022 17:36:20.392 INFORMACIÓN [http-nio-8086-exec-14] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Aug-2022 17:36:20.392 INFORMACIÓN [http-nio-8086-exec-18] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+04-Aug-2022 17:36:20.408 INFORMACIÓN [http-nio-8086-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/'
+04-Aug-2022 17:36:20.924 INFORMACIÓN [http-nio-8086-exec-14] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/IES6/AppData/Local/Temp/context8288710040205722140.xml'
+04-Aug-2022 17:36:20.955 INFORMACIÓN [http-nio-8086-exec-12] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/'
